@@ -1,4 +1,4 @@
 package ua.javarush.island.entity.map;
 
-public class GameField {
+public class Island {
 }
